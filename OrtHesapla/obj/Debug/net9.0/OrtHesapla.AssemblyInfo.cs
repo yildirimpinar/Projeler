@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrtHesapla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61e764ad96a365958d4e85a4cc7c644bb062741f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrtHesapla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrtHesapla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
