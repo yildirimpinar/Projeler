@@ -1,0 +1,14 @@
+C:\Users\qq\Desktop\Projeler\OrtHesapla\bin\Debug\net9.0\OrtHesapla.exe
+C:\Users\qq\Desktop\Projeler\OrtHesapla\bin\Debug\net9.0\OrtHesapla.deps.json
+C:\Users\qq\Desktop\Projeler\OrtHesapla\bin\Debug\net9.0\OrtHesapla.runtimeconfig.json
+C:\Users\qq\Desktop\Projeler\OrtHesapla\bin\Debug\net9.0\OrtHesapla.dll
+C:\Users\qq\Desktop\Projeler\OrtHesapla\bin\Debug\net9.0\OrtHesapla.pdb
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.AssemblyInfoInputs.cache
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.AssemblyInfo.cs
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.csproj.CoreCompileInputs.cache
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.dll
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\refint\OrtHesapla.dll
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.pdb
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\OrtHesapla.genruntimeconfig.cache
+C:\Users\qq\Desktop\Projeler\OrtHesapla\obj\Debug\net9.0\ref\OrtHesapla.dll
