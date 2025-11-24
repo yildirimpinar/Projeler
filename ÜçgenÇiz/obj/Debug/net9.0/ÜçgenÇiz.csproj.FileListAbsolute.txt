@@ -1,0 +1,15 @@
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\bin\Debug\net9.0\ÜçgenÇiz.exe
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\bin\Debug\net9.0\ÜçgenÇiz.deps.json
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\bin\Debug\net9.0\ÜçgenÇiz.runtimeconfig.json
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\bin\Debug\net9.0\ÜçgenÇiz.dll
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\bin\Debug\net9.0\ÜçgenÇiz.pdb
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.AssemblyInfoInputs.cache
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.AssemblyInfo.cs
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.csproj.CoreCompileInputs.cache
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.sourcelink.json
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.dll
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\refint\ÜçgenÇiz.dll
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.pdb
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ÜçgenÇiz.genruntimeconfig.cache
+C:\Users\qq\Desktop\Projeler\ÜçgenÇiz\obj\Debug\net9.0\ref\ÜçgenÇiz.dll
